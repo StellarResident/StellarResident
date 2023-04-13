@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Stellar%20Resident&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=𝓢𝓽𝓮𝓵𝓵𝓪𝓻 %20𝓡𝓮𝓼𝓲𝓭𝓮𝓷𝓽&fontSize=90)
