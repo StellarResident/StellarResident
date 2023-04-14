@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 My Profile
 
 <img src="https://img.shields.io/badge/stellarresident@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/@StRe990411-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>
+
+Programming Language
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+Libraries
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
