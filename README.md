@@ -19,6 +19,10 @@ My Profile
 
 <img src="https://img.shields.io/badge/stellarresident@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/@StRe990411-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>
 
+Tools
+
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+
 Programming Language
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
