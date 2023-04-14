@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 My Profile
 
-<img src="https://img.shields.io/badge/stellarresident@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><img src="https://img.shields.io/badge/@StRe990411-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>
+<img src="https://img.shields.io/badge/stellarresident@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>%20<img src="https://img.shields.io/badge/@StRe990411-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>
