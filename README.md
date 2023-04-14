@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=𝓢𝓽𝓮𝓵𝓵𝓪𝓻%20𝓡𝓮𝓼𝓲𝓭𝓮𝓷𝓽&desc=𝓣𝓱𝓮%20𝓓𝓪𝓽𝓪%20𝓢𝓬𝓲𝓮𝓷𝓽𝓲𝓼𝓽%20𝓴𝓲𝓭&fontSize=70)
 
+Hi, I am student. Nice to meet you.
+
 My Profile
 
 <img src="https://img.shields.io/badge/stellarresident@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/@StRe990411-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>
