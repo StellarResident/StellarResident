@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=𝓢𝓽𝓮𝓵𝓵𝓪𝓻%20𝓡𝓮𝓼𝓲𝓭𝓮𝓷𝓽&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=𝓢𝓽𝓮𝓵𝓵𝓪𝓻%20𝓡𝓮𝓼𝓲𝓭𝓮𝓷𝓽&desc=𝓣𝓱𝓮%20𝓓𝓪𝓽𝓪%20𝓢𝓬𝓲𝓮𝓷𝓽𝓲𝓼𝓽%20𝓴𝓲𝓭&fontSize=70)
