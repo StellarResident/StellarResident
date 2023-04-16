@@ -19,7 +19,7 @@ Hi, I am student. Nice to meet you.
 
 My Profile
 
-<img src="https://img.shields.io/badge/stellarresident@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/@StRe990411-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/StellarResident-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/stellarresident@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/@StRe990411-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/StellarResident-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/stellarresident-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 
 Tools
 
