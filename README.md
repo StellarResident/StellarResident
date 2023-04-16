@@ -39,3 +39,7 @@ Libraries
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StellarResident&layout=compact&theme=transparent" />
 </a>
+
+My Roadmap
+
+![Data Science Roadmap](https://user-images.githubusercontent.com/99897765/232315580-0acd3eea-a155-4bc9-8edf-9cd697c937aa.png)
